@@ -19,7 +19,7 @@ Problems
 --------
 Some of the image links in the [DHA System](http://ipilab.usc.edu/BAAweb/) are invalid and can be recovered by having
 a look at the link text instead of the link URL. However, one image is still
-missing, where both the link text and url are invalid.
+missing, where both the link text and URL are invalid.
 
 ```
 JPEGimages/ASIF/ASIF05/5260.jpg -> JPEGimages/ASIF/ASIF05/5262.jpg
@@ -34,7 +34,7 @@ Disclaimer
 ----------
 The repository owner is __not__ the copyright holder for the digital hand atlas
 dataset. Copyright is hold by the *Image Processing and Informatics Lab, 1450 San Pablo Street, Suite 2100, Los Angeles*. This script just aims to provide an easy
-access to the dataset outside the web gui, for example for testing machine
+access to the dataset outside the DHA System, for example for testing machine
 learning models efficiently.
 
 Licence
